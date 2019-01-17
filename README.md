@@ -8,6 +8,10 @@ Topic: Analyze Smart/Home Devices reviews on various website
 
 Topic Selection --> Scraping --> Analysis --> Web Dev --> Publish
 
+### Major Files:
+
+__Amazon_Review_Scraper__ : Scrapes Amazon Reviews
+
 ### Research Questions:
 
 -	What are the most common words people use?
