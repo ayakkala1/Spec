@@ -11,6 +11,7 @@ Topic Selection --> Scraping --> Analysis --> Web Dev --> Publish
 ### Major Files:
 
 __Amazon_Review_Scraper__ : Scrapes Amazon Reviews
+
 __Google_Review_Scraper__: Scrapes Google Reviews
 
 ### Research Questions:
